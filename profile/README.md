@@ -1,6 +1,6 @@
 <h1 align="center">Bienvenue à l'Association des Étudiants de l'UTBM !</h1>
 <p align="center">
-  <a href="https://discord.gg/SVKreVYzCS">
+  <a href="https://discord.gg/XK9WfPsUFm">
     <img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   
