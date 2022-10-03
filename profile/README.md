@@ -4,7 +4,7 @@
     <img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   
-  <a href="https://github.com/ae-utbm/octopus/wiki" target="_blank">
+  <a href="https://github.com/ae-utbm/api/wiki" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Documentation-20BEFF?style=for-the-badge&logo=gitbook&logoColor=fff" />
   </a>
   
