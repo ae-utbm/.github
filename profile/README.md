@@ -4,7 +4,7 @@
     <img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/ae-utbm/api/wiki" target="_blank">
+  <a href="https://ae-utbm.github.io/sith/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Documentation-20BEFF?style=for-the-badge&logo=gitbook&logoColor=fff" />
   </a>
   &nbsp;
@@ -17,4 +17,4 @@
 </p>
 
 <hr>
-<p align="center">Pour toute question ou demande, n'hésitez pas à nous contacter à <a href="mailto:ae.info@utbm.fr">ae.info@utbm.fr</a>.</p>
+<p align="center">Pour toute question ou demande, n'hésitez pas à nous contacter sur le discord (lien ci-dessus).</p>
